@@ -7,7 +7,7 @@ resultTxt.style.display = "none";
 
 const Cards = [
     {
-        "name": "cheeseBurger",
+        "name": "cheeseburger",
         "src": "./images/cheeseburger.png"
     },
     {
@@ -31,7 +31,7 @@ const Cards = [
         "src": "./images/pizza.png"
     },
     {
-        "name": "cheeseBurger",
+        "name": "cheeseburger",
         "src": "./images/cheeseburger.png"
     },
     {
