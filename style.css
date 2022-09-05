@@ -1,0 +1,39 @@
+* {
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#game-board {
+    width: 416px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 20%;
+}
+
+.image {
+    margin: 2px;
+}
+
+#conclusion {
+    width: 100%;
+    height: auto;
+    font-size: 100px;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.432);
+    padding-top: 15%;
+    padding-bottom: 22.2%;
+    text-align: center;
+}
